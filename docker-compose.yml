@@ -43,8 +43,3 @@ services:
       - "8081:80"
     depends_on:
       - server2
-
-
-# Volumes define
-volumes: 
-  mydata:
